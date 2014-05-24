@@ -1,38 +1,38 @@
 login:
-	username: "bot username"
-	password: "bot password"
+    username: "bot username"
+    password: "bot password"
 #---------------------------
 categories:
-	- Animals
-	- Beings
-	- Cryptids
-	- Demon/Devil
-	- Ghosts
-	- Gods
-	- Monsters
-	- Computers and Internet
-	- Disappearances
-	- Dismemberment
-	- Dreams/Sleep
-	- Halloween
-	- History
-	- Items/Objects
-	- Books
-	- Diary/Journal
-	- \"Lost Episodes\"
-	- Memes
-	- Mental Illness
-	- Military
-	- Mirrors
-	- Music
-	- Nature
-	- Photography
-	- Places
-	- Poetry
-	- Reality
-	- Ritual
-	- Science Pastas
-	- Space
-	- Television
-	- Videos
-	- Video Games
+    - Animals
+    - Beings
+    - Cryptids
+    - Demon/Devil
+    - Ghosts
+    - Gods
+    - Monsters
+    - Computers and Internet
+    - Disappearances
+    - Dismemberment
+    - Dreams/Sleep
+    - Halloween
+    - History
+    - Items/Objects
+    - Books
+    - Diary/Journal
+    - \"Lost Episodes\"
+    - Memes
+    - Mental Illness
+    - Military
+    - Mirrors
+    - Music
+    - Nature
+    - Photography
+    - Places
+    - Poetry
+    - Reality
+    - Ritual
+    - Science Pastas
+    - Space
+    - Television
+    - Videos
+    - Video Games
